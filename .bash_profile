@@ -64,7 +64,3 @@ export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
 export GO111MODULE=on
 
-# nodejs
-export PATH="$HOME/.nodenv/bin:$PATH"
-eval "$(nodenv init -)"
-
