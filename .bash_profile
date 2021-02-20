@@ -64,3 +64,5 @@ export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
 export GO111MODULE=on
 
+# local bins
+export PATH=$PATH:~/.local/bin
